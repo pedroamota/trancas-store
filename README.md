@@ -1,15 +1,13 @@
-# 🌟 Tranças Divinas - E-commerce de Tranças
+# 🌟 Tranças - E-commerce de Tranças
 
-Uma loja online moderna e elegante especializada em tranças de cabelo para mulheres negras, desenvolvida com Next.js, React, TypeScript e Tailwind CSS.
+Desenvolvido com Next.js, React, TypeScript e Tailwind CSS.
 
 ## ✨ Funcionalidades
 
-- 🎨 **Interface Moderna**: Design atraente com gradientes vibrantes e animações suaves
 - 🔍 **Filtros Avançados**: Filtre por tipo de trança, cor e tamanho
 - 🛒 **Carrinho de Compras**: Adicione, remova e gerencie quantidades
-- 📱 **Responsivo**: Funciona perfeitamente em desktop e mobile
+- 📱 **Responsivo**: Funciona em desktop e mobile
 - 💬 **Integração WhatsApp**: Finalização de pedido direto no WhatsApp
-- 🎯 **Público-Alvo**: UI especialmente desenhada para mulheres negras
 
 ## 🚀 Como Usar
 
